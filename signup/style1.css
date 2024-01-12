@@ -1,0 +1,60 @@
+{
+    background-color: #0093E9;
+    background-image: linear-gradient(124deg, #0093E9 22%, #80D0C7 61%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 700px;
+}
+.col1{
+    background-color: white;
+    padding: 80px 80px;
+    height: 100%;
+    -webkit-box-shadow: 0 0 10px #fff;
+        box-shadow: 0 0 10px #fff;
+}
+.head{
+    margin: 60px 90px 80px;
+    background-color: #0093E9;
+    background-image: linear-gradient(156deg, #0093E9 0%, #80D0C7 50%, #6edeed 100%);
+
+}
+.form1{
+    margin-top: 10px;
+}
+.grp{
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.grpp{
+    padding-left: 30px;
+}
+.grpAccount{
+    text-align: center;
+}
+.logo{
+    width: 80%;
+    padding-left: 100px;
+}
+.col2{
+    background-image: url(student-collaboration.jpeg);
+    background-size: cover;
+    opacity: 0.4;
+    min-height: 800px;
+    height: 543px;
+    width: auto;
+    -webkit-box-shadow: 0 0 10px #fff;
+        box-shadow: 0 0 10px #fff;
+    
+}
+.col2 h1{
+    padding-top: 90px;
+    padding-left: 30px;
+    color: white;
+    opacity: 1;
+}
+.col2 p{
+    padding-left: 30px;
+    color: white;
+    font-weight: bold;
+}

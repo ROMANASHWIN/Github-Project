@@ -1,0 +1,58 @@
+.heading{
+    font-size: 100px;
+    text-align: center;
+    color: brown;
+}
+.second{
+    padding-left: 630px;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;;
+    background-color: white;
+   
+}
+.second1{
+    background-color:#17a2b8;
+    border-radius: 5px;
+}
+.second2{
+    padding-left: 50px;
+}
+.second3{
+    padding-left: 50px;
+}
+.second4{
+    padding-left: 50px;
+}
+.nav-pills a{
+    color:rgb(10, 10, 10);
+}
+.img1{
+    height: 200px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px #504d4d;
+    border-radius: 3px;
+}
+.img2{
+    height: 200px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px #504d4d;
+    border-radius: 3px;
+}
+.img3{
+    height: 200px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px #504d4d;
+    border-radius: 3px;
+}
+.img4,.img5,.img6{
+    height: 200px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px #504d4d;
+    border-radius: 3px;
+}
+.img1:hover,.img2:hover,.img3:hover,.img4:hover,.img5:hover,.img6:hover{
+    transform: scale(1.1);
+}

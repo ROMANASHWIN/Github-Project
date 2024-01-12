@@ -1,0 +1,98 @@
+body{
+    max-height: 1200px;
+}
+.second{
+    min-width: 1200px;
+    background-color: rgb(255, 250, 250);
+    min-height: 30px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white; 
+}
+.img{
+    min-width: 1200px;
+    max-height: 500px;
+}
+.nav1{
+    background-color: rgb(218, 23, 23);
+    color: rgb(235, 25, 25);
+    font-weight: bold;
+}
+.second{
+    padding-left: 780px;
+    padding-bottom: 14px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+   
+}
+.nav-pills{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white; 
+}
+.second1{
+    background-color: rgb(212, 22, 22);
+    border-radius: 3px;
+}
+.second2{
+    padding-left: 50px;
+}
+.second3{
+    padding-left: 50px;
+}
+.second4{
+    padding-left: 50px;
+}
+.nav-pills a{
+    color:rgb(10, 10, 10);
+}
+.heading{
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    color: brown;
+}
+.head3{
+    text-align: center;
+    font-size: 50px;
+}
+.footcol1{
+    padding: 5px 5px 0px 5px;
+}
+.footcol2{
+    font-weight: bold;
+}
+footer{
+    background: linear-gradient(180deg,#2a2a2a,#2d2d2d);
+    color: gainsboro;
+    padding-top: 30px;
+    min-height: 400px;
+}
+.foot2{
+    margin-top: 30px;
+}
+.logo{
+    font-size: 20px; 
+}
+.lastlogo{
+    font-size: 20px;
+    padding-left: 90px;
+}
+.lastlogo1,.lastlogo2,.lastlogo3{
+    padding-left: 20px;
+}
+.second{
+    padding-left: 780px;
+    padding-bottom: 14px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding-top: 14px;
+    z-index: 10000;
+   
+}
